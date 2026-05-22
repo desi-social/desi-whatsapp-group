@@ -1,0 +1,6 @@
+@DesiWhatsappGroup_HostAddress = http://localhost:5195
+
+GET {{DesiWhatsappGroup_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
